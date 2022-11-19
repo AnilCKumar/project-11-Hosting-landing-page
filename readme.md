@@ -12,6 +12,6 @@
 
 •	::after and ::before
 
-### Time required to build: 4h
+### Time required to build: 4h 
 
-### Demo - [Link](https://anil-project-11.netlify.app/ )
+### Demo - [Link]( https://anil-project-11.netlify.app/ )
